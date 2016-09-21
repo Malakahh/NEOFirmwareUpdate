@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\NEO\NEO_BT.mcppi
+Project1=NEOFirmwareUpdate.mcppi
+[ActiveProject]
+Index=1
